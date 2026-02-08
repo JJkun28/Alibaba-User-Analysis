@@ -109,7 +109,6 @@
 
 ```text
 project-root/
-├── data/                       # 数据说明文档
 ├── code/
 │   ├── data_gen_ali.sql   # 建表
 │   ├── analysis.ipynb      # Python 数据清洗、分析脚本
